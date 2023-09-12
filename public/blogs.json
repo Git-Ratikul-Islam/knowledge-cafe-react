@@ -1,0 +1,67 @@
+[
+      {
+            "ID": "12345",
+            "Cover": "https://example.com/cover1.jpg",
+            "Title": "The Secret Garden",
+            "Author_Img": "https://i.ibb.co/cQGkrkd/2337097.jpg",
+            "Posted_Date": "September 12, 2023",
+            "Reading_Time": "20 minutes",
+            "Hashtags": [
+                  "#Mystery",
+                  "#Gardening",
+                  "#Adventure"
+            ]
+      },
+      {
+            "ID": "67890",
+            "Cover": "https://example.com/cover2.jpg",
+            "Title": "Lost in Time",
+            "Author_Img": "https://i.ibb.co/cQGkrkd/2337097.jpg",
+            "Posted_Date": "September 10, 2023",
+            "Reading_Time": "30 minutes",
+            "Hashtags": [
+                  "#TimeTravel",
+                  "#SciFi",
+                  "#Exploration"
+            ]
+      },
+      {
+            "ID": "24680",
+            "Cover": "https://example.com/cover3.jpg",
+            "Title": "Whispers in the Woods",
+            "Author_Img": "https://i.ibb.co/cQGkrkd/2337097.jpg",
+            "Posted_Date": "September 8, 2023",
+            "Reading_Time": "25 minutes",
+            "Hashtags": [
+                  "#Mystery",
+                  "#Nature",
+                  "#Suspense"
+            ]
+      },
+      {
+            "ID": "13579",
+            "Cover": "https://example.com/cover4.jpg",
+            "Title": "Dreams of the Stars",
+            "Author_Img": "https://i.ibb.co/cQGkrkd/2337097.jpg",
+            "Posted_Date": "September 6, 2023",
+            "Reading_Time": "40 minutes",
+            "Hashtags": [
+                  "#SpaceExploration",
+                  "#ScienceFiction",
+                  "#Dreams"
+            ]
+      },
+      {
+            "ID": "54321",
+            "Cover": "https://example.com/cover5.jpg",
+            "Title": "Cooking Delights",
+            "Author_Img": "https://i.ibb.co/cQGkrkd/2337097.jpg",
+            "Posted_Date": "September 4, 2023",
+            "Reading_Time": "15 minutes",
+            "Hashtags": [
+                  "#Cooking",
+                  "#Foodie",
+                  "#Recipes"
+            ]
+      }
+]
